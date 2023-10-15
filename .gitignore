@@ -393,6 +393,8 @@ FodyWeavers.xsd
 *.msix
 *.msm
 *.msp
-
+*.DS_Store
+*.editorconfig
+TestProject1.sln
 # JetBrains Rider
 *.sln.iml
