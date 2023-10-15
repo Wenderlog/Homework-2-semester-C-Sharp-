@@ -399,3 +399,4 @@ TestProject1.sln
 # JetBrains Rider
 *.sln.iml
 *.sln
+*.csproj
