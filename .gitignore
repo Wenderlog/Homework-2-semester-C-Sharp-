@@ -400,7 +400,7 @@ TestProject1.sln
 *.sln.iml
 .DS_Store
 *.sln
-LZV/.editorconfig
+.editorconfig
 *.csproj
 *.sln
-
+*.csproj
